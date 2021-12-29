@@ -25,3 +25,5 @@ public class MeetController {
         return  "Hello World";
     }
 }
+
+//TODO: login.html & register.html is using <form method="post">
