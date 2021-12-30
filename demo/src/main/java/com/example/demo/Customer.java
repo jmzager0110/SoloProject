@@ -1,6 +1,7 @@
 package com.example.demo;
 
 //code from spring guide
+//TODO: Compare to User, then decide f this can be 86'ed
 public class Customer {
     private long id;
     private String firstName, lastName;

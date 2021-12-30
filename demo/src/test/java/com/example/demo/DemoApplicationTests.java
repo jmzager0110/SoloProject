@@ -24,6 +24,8 @@ class DemoApplicationTests {
 		assertThat(testRestTemplate.getForObject("http://localhost:" + port, String.class)).contains("");
 	}
 
+	//TODO: Unit Testing for Interfaces, Chapter 8, Section 5, "The best practices to testing interfaces are very similar to those of testing inheritance. You want to focus on testing the contract that the interface is supposed to be upholding as opposed to the interface itself."
+
 	@Test
 	void contextLoads() {
 	}
