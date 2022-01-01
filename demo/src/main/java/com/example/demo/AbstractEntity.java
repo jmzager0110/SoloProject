@@ -4,8 +4,9 @@ import org.springframework.data.annotation.Id;
 
 import java.util.Objects;
 
-//@MappedSuperClass TODO: Search for dependency required for this
-public class AbstractEntity {
+//TODO:Figure out what is req for this annotation
+//@MappedSuperClass
+public abstract class AbstractEntity {
 
     @Id
     //@GeneratedValue TODO: Search for dependency for this
