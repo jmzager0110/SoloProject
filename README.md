@@ -1,4 +1,6 @@
 # SoloProject
+Temporarily, the current application is being stored [in this repository](https://github.com/jmzager0110/UpDoot) - January 4, 2022
+
 Initial Project Repository
 This is my Solo Project for LiftOff.
 
